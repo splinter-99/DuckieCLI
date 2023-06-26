@@ -16,9 +16,11 @@ Simple command line tool with various options for quickly updating binded ip add
 
 ## Example command
 Example #1
+
 ```bash./update_ip.sh -d domain1 -d domain2 -ip 12.34.56.78```
 
 Example #2
+
 ```bash./update_ip.sh -d domain1 -d domain2 -ip 87.65.43.21 --token some123token```
 ## Updates
 
